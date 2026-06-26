@@ -3,7 +3,7 @@
 A Power BI dashboard tracking real-time loan data for Lend X platform.
 
 ## 🔗 Live Dashboard
-[Click here to view the live interactive dashboard](https://github.com/avneeshsinghbi-analytics/lend-x-live-tracker-dashboard/blob/main/Screenshot%20(256).png)
+[Click here to view the live interactive dashboard](https://github.com/avneeshsinghbi-analytics/lend-x-live-tracker-dashboard/blob/main/Screenshot%20(280).png)
 
 ## ✨ Features
 - 192 active loans tracked in real-time
