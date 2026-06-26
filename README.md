@@ -20,4 +20,4 @@ A Power BI dashboard tracking real-time loan data for Lend X platform.
 - GitHub
 
 ## 📸 Dashboard Preview
-![Dashboard](screenshot.png)
+![Dashboard](Screenshot (256).png)
